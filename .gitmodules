@@ -1,0 +1,12 @@
+[submodule "whole-java-libs"]
+	path = whole-java-libs
+	url = https://github.com/wholeplatform/whole-java-libs.git
+[submodule "whole"]
+	path = whole
+	url = https://github.com/wholeplatform/whole.git
+[submodule "whole-examples"]
+	path = whole-examples
+	url = https://github.com/wholeplatform/whole-examples.git
+[submodule "whole-platform-products"]
+	path = whole-platform-products
+	url = https://github.com/wholeplatform/whole-platform-products.git
