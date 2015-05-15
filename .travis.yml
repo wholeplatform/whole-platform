@@ -3,4 +3,4 @@ jdk: oraclejdk8
 script:
   - cd whole/org.whole.products.releng
   - export M2_HOME=$(mvn -v | grep "^Maven home:" | sed "s/^[^\/]*//")
-  - gradle -i --daemon integration_test
+  - gradle -i --daemon  integration_test
